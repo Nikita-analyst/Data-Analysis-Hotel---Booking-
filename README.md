@@ -1,4 +1,4 @@
-# Data-Analysis-Hotel---Booking-
+# Data-Analysis-Hotel-Booking-
 The primary objective of this analysis is to identify the reasons behind the higher cancellation rates in resort hotels compared to city hotels. Understanding these reasons can help hotel management in developing strategies to reduce cancellations and improve booking confirmation rates.
 Welcome to the Hotel Booking Data Analysis Project repository! This project aims to analyze hotel booking data to understand the patterns and factors influencing higher cancellation rates in resort hotels compared to city hotels. The analysis is performed using various data analysis techniques and visualizations.
 
