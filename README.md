@@ -20,8 +20,13 @@ Booking Channels: The mode of booking (online, travel agency, direct) impacts th
 The project includes various analysis techniques and visualizations to provide a comprehensive understanding of the data:
 
 Descriptive Statistics: Summary statistics to understand the overall dataset characteristics.
+
 Cancellation Rate Analysis: Comparison of cancellation rates between resort and city hotels using bar charts and line graphs.
+
 Seasonal Trends: Time series analysis to identify seasonal patterns in cancellations.
+
 Lead Time Analysis: Scatter plots and histograms to explore the relationship between lead time and cancellations.
+
 Demographic Insights: Analysis of customer demographics and their influence on booking cancellations.
+
 Booking Channel Analysis: Examination of different booking channels and their impact on cancellation rates.
