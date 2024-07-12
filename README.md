@@ -6,7 +6,7 @@ Welcome to the Hotel Booking Data Analysis Project repository! This project aims
 The primary objective of this project is to investigate the reasons behind the higher cancellation rates observed in resort hotels compared to city hotels. By analyzing the booking data, we aim to uncover trends and insights that can help hotel management devise strategies to reduce cancellations and improve booking retention.
 
 # Data Source
-The dataset used in this project is the hotel booking, which contains booking information for a city hotel and a resort hotel. The dataset includes details such as booking dates, lead times, customer demographics, booking status, and more.
+The dataset used in this project is the hotel bookings, which contains booking information for a city hotel and a resort hotel. The dataset includes details such as booking dates, lead times, customer demographics, booking status, and more.
 
 # Key Findings
 Cancellation Rate Comparison: The analysis reveals that the cancellation rate for resort hotels is significantly higher than that for city hotels.
